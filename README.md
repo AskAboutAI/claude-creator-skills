@@ -2,7 +2,7 @@
 
 A collection of 8 ready-to-use Claude skills built specifically for **content creators, personal brands, and online coaches** who want Claude to work like a dedicated creative team — not a generic AI assistant.
 
-Curated and shared by **Raj Gyanani — [AskAboutAI](https://www.youtube.com/@AskAboutAI)**
+Curated and shared by **Raj Gyanani — [AskAboutAI](https://www.instagram.com/askaboutai/)**
 
 ---
 
